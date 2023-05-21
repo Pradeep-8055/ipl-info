@@ -1,0 +1,65 @@
+.teambutton{background-color:red;width: 200px;height: 80px;color: white;font-size: 30px}
+.historybutton{background-color:orange;width:200px;height:80px;color:white;font-size:30px;}
+.aboutbutton{background-color: blueviolet;width: 200px;height:80px;color: white;font-size: 30px}
+h1{color:blue;font-size:55px;font-family:verdana;}
+.table{border-collapse:collapse;width:80%;}
+td{ border:10px solid darkorange;}
+
+p1{color:brown; font-size:30px; font-family:arial;}
+.inforcb{color:red;}
+.newsbutton{color:white;background:blue;width:200px;height:80px;font-size:30px;}
+.pghistory{background-color: black;}
+.introinfo{color:brown; font-weight:400;}
+.rcbhead{width:60; height:80px;;}
+.aboutus{background-color:#ffffcc;height:200vh;}
+.aprdp{background-color:#ffbb33;
+margin:50px 50% 10px 10px;font-weight:bold;font-size:40px;
+}
+.aprdp:hover{background-color:red;margin:47px 49.7% 7px 7px;}
+.asch{background-color: #ff8533;
+margin:10px 10px 10px 50%;font-weight:bold;font-size:40px;
+}
+.asch:hover{background-color:red;margin:7px 7px 7px 49.7%;}
+.andp{background-color:#ff1a75;
+margin:10px 50% 10px 10px;font-weight:bold;font-size:40px;
+}
+.andp:hover{background-color:red;margin:7px 49.7% 7px 7px;}
+.asai{background-color:#ff6666;
+margin:10px 10px 10px 50%;font-weight:bold;font-size:40px;
+}
+.asai:hover{background-color:red;margin:7px 7px 7px 49.7%;}
+.amhm{background-color:#ff33ff;
+margin:10px 50% 10px 10px;font-weight:bold;font-size:40px;
+}
+.amhm:hover{background-color:red;margin:7px 49.7% 7px 7px;}
+.aprjwl{background-color:#6666ff;
+margin:10px 10px 10px 50%;font-weight:bold;font-size:40px;
+}
+.aprjwl:hover{background-color:red;margin:7px 7px 7px 49.7%;}
+a:link{text-decoration:none;}
+a:hover{text-decoration:underline;color:red;background-color:blue;}
+.div{background-color:#ff751a;}
+.div1{}
+.btnreg{float:right;height:40px;width:100px;background-color:pink;font-size:20px;margin:20px 20px 20px 20px;}
+.btnreg:hover{color:#ffffff;background-color:hotpink;text-decoration:underline;height:45px;width:110px;margin:15px;}
+.teambutton:hover{text-decoration:underline;color:pink;width:190px;height:70px;font-size:25px;}
+.newsbutton:hover{text-decoration:underline;color:pink;width:190px;height:70px;font-size:25px;}
+.historybutton:hover{text-decoration:underline;color:pink;width:190px;height:70px;font-size:25px;}
+.aboutbutton:hover{text-decoration:underline;color:pink;width:190px;height:70px;font-size:25px;}
+.regbody{}
+p3{font-size:30px;font-weight:400;}
+p4{font-size:30px;font-family:arial;font-weight:400;}
+p5{font-size:30px;font-family:verdana;font-weight:400;}
+p6{font-size:30px;font-family:tahoma;font-weight:400;}
+p7{font-size:30px;font-family:trebuchet ms;font-weight:400;}
+p8{font-size:30px;font-family:times new roman;font-weight:400;}
+p9{font-size:30px;font-family:georgia;font-weight:400;}
+p10{font-size:30px;font-family:garamond;font-weight:400;}
+p11{font-size:30px;font-family:courier new;font-weight:400;}
+p12{font-size:30px;font-family:brush script mt;font-weight:400;}
+.imgsuprith{float:right;}
+.homehead{background-color:#ffffcc;
+        position:sticky;
+        top:0px;
+}
+.imgbutton{width:100%;height:;}

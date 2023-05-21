@@ -1,0 +1,24 @@
+To be successful in this role, you should meet the following requirements:
+Proven experience as a Full Stack Developer or similar role.
+
+
+
+1 Proficiency with fundamental front-end languages/libraries 
+  (e.g. HTML/ CSS,JavaScript, XML, jQuery) and UI/UX design
+
+2 Knowledge of multiple back-end languages (e.g. C#, PHP) and JavaScript       frameworks (e.g. React, Node.js, TypeScript)
+
+3 Familiarity with databases (e.g. MariaDB)
+
+4 Knowledge or experience of working in Agile methodology
+
+5 Experience on cloud platform like AWS and understanding of Docker/Kubernetes       based architecture,
+
+6 Should have exposure to DevOps tools such as GitHub, Jenkins, Maven, and      SonarQube etc
+
+
+
+1 Should be able to guide team members in all technical aspects and security tools 2 adoption
+3 Analytical mind with problem solving skills
+4 Ability to work independently and have very good communication skills
+5 You’ll achieve more when you join HSBC.

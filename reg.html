@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>Regestor</title>
+</head>
+<body class="regbody" style=font-family:arial;background-colo:;>
+<form>
+<div style=margin:10px;>
+    <label for="username" class="lusername">User name :</label>
+    <input class="iusername" type"text" id="username"                       placeholder="Creat New username" required>
+</div> 
+<div style=margin:10px;>
+   <label class="lpassword" for="password">Password : </label>
+     <input type="password" class="ipassword" id="password"               placeholder="Creat New Password" required><br>
+</div>
+<input class="submit1" type="submit"><br>
+<center><h1>ADDITIONAL INFORMATION</h1></center>
+<div style="color:green;font-size:20px;font-size:25px;margin:0px 0px 0px 40px;">
+        <label for="genderr">Gender :</label>
+        <label for="male">Male</label>
+        <input type="radio" id="male" name="gender">
+        <label for="femail">Femail</label>
+        <input type="radio" id="female" name="gender">
+</div>
+<br>
+<div style="margin:0px 0px 0px 40px;">
+    <label style="font-size:25px;color:green;" for="dob">DOB :</label>
+    <input type="date" id="dob" style="background-color:whtie;width:200px;height:25px;font-size:25px;">
+</div><br>
+<div>
+<label style="color:green;font-size:25px;margin:0px 0px 0px 20px;">Branch:</label>
+<select style="height:30px;font-size:20px;">
+<option>Electronics And Commnucation Engg</option>
+<option>Computer Science And Engg</option>
+<option>CS-Iot</option>
+<option>Artificial Intelligence And Machine Learning</option>
+<option>Artificial Intelligence And Data science</option>
+<option>Information Science And Engg</option>
+<option>Electrical And Electronics Engg</option>
+<option>Civil Engg</option>
+<option>Mechanical Engg</option>
+<option></option>
+</select>
+</div><br>
+<label style="color:green;font-size:25px;margin:0px 0px 0px 40px;">Year :</lable>
+<input type="number" min="1" max="4" style="height:25px;width:100px;font-size:25px;">
+<input class="submit1" type="submit">
+</form>
+
+</body>
+
+
+<style>
+.lusername{color:green;font-size:30px;}
+.iusername{background-color:black;width:300px;height:30px;font-size:20px;border-color:wight;color:whight;}
+.iusername:hover{background-color:white;}
+.lpassword{color:green;font-size:30px;}
+.ipassword{background-color:black;width:300px;height:30px;font-size:20px;border-color:wight;input-color:white;}
+.ipassword:hover{background-color:white;}
+h1{color:white;}
+.submit1{float:right;height:35px;width:100px;background-color:red;font-size:20px;color:white;}
+.submit1:hover{height:37px;width:100px;background-color:green;font-size:20px;color:white;text-decoration:underline;}
+</style>
+
+</html>
